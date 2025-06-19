@@ -5,9 +5,9 @@ namespace Data.Repositories;
 
 public class BookRepository
 {
-    private readonly AppDbContext _context;
+    private readonly EjercicioChatLibrosContext _context;
 
-    public BookRepository(AppDbContext context)
+    public BookRepository(EjercicioChatLibrosContext context)
     {
         _context = context;
     }

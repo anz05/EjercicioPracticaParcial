@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdmU8lfyg48=",
+  "dgSpecHash": "NxnGkIJ2VHw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioChatLibros\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54381\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
     "C:\\Users\\54381\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",

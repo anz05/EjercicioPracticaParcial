@@ -1,0 +1,5 @@
+C:\Users\54381\Documents\Angeles\DesarrolloSW\practicaprimerparcial\EjercicioChatLibros\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\54381\Documents\Angeles\DesarrolloSW\practicaprimerparcial\EjercicioChatLibros\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54381\Documents\Angeles\DesarrolloSW\practicaprimerparcial\EjercicioChatLibros\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\54381\Documents\Angeles\DesarrolloSW\practicaprimerparcial\EjercicioChatLibros\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\54381\Documents\Angeles\DesarrolloSW\practicaprimerparcial\EjercicioChatLibros\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache

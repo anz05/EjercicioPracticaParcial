@@ -1,4 +1,7 @@
 
+using Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace EjercicioChatLibros
 {
     public class Program
@@ -16,6 +19,11 @@ namespace EjercicioChatLibros
 
             var app = builder.Build();
 
+            builder.Services.AddDbContext<EjercicioChatLibrosContext>
+                (options =>
+                    {
+                        options.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=BibliotecaEjercChat;Integrated Security=True;");
+                    });
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
@@ -31,6 +39,8 @@ namespace EjercicioChatLibros
             app.MapControllers();
 
             app.Run();
+
+            
         }
     }
 }

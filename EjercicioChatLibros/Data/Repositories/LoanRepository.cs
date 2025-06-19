@@ -9,9 +9,9 @@ namespace Data.Repositories;
 
 public class LoanRepository
 {
-    private readonly AppDbContext _context;
+    private readonly EjercicioChatLibrosContext _context;
 
-    public LoanRepository(AppDbContext context)
+    public LoanRepository(EjercicioChatLibrosContext context)
     {
         _context = context;
     }
