@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities;
 
-public class Category
+public class Category : EntityBase
 {
-    public int? Id { get; set; }
     public string? Name { get; set; }
-
     public ICollection<Book>? Books { get; set; }
-
-
+    public Category(string name)
+    {
+        Name = name;
+        Id = Guid.NewGuid();
+    }
 }

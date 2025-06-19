@@ -1,0 +1,50 @@
+[
+    {
+        "id": "b6e2e2c2-7e2a-4e2e-9b2a-1c2e2e2e2e2e",
+        "title": "El retrato de Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1870,
+        "isbn": "9789876690126",
+        "idCategory": "568268c2-9eb2-4fa5-9874-60884df39122"
+    },
+    {
+        "id": "568268c2-9eb2-4fa5-9874-60884df39122",
+        "Title": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "year": 1967,
+        "isbn": "9788437604947",
+        "idCategory": "568268c2-9eb2-4fa5-9875-60884cf39666"
+    },
+    {
+        "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "isbn": "9780452284234",
+        "idCategory": "568268c2-9eb2-4fa5-9874-60884df39122"
+    },
+    {
+        "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+        "title": "El Principito",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "isbn": "9788426121093",
+        "idCategory": "568268c2-9eb2-4fa5-9874-60884df39122"
+    },
+    {
+        "id": "f1d88251-8462-4f75-85d1-b25cfaf0a478",
+        "title": "Rayuela",
+        "author": "Julio Cortázar",
+        "year": 1963,
+        "isbn": "9788466306656",
+        "idCategory": "568268c2-9eb2-4fa5-9874-60884df39122"
+    },
+    {
+        "id": "c301ac0d-c158-4f25-9c3a-47992f98cb9a",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "isbn": "9780743247221",
+        "idCategory": "568268c2-9eb2-4fa5-9874-60884df39122"
+    }
+]

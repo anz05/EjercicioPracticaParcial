@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities;
 
-public class User
+public class User : EntityBase
 {
-    public string? Id { get; set; }
     public string? FullName { get; set; }
     public string? Email { get; set; }
     public ICollection <Loan>? loans { get; set; }
+
+    public User(string fullName, string email)
+    {
+        FullName = fullName;
+        Email = email;
+        Id = Guid.NewGuid();
+    }
 }

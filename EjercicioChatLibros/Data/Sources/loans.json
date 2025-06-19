@@ -1,0 +1,23 @@
+[
+    {
+        "id": "f1d88251-8462-4f75-85d1-b25cfaf0a478",
+        "loanDate": "2025-06-12T10:30:05",
+        "returnDate": "2025-06-19T00:00:00",
+        "idBook": "b6e2e2c2-7e2a-4e2e-9b2a-1c2e2e2e2e2e",
+        "idUser": "b6e2e2c2-70ka-4e2e-9b2a-1c2e3f2e2e2e"
+    }
+    {
+        "id": "f1d28251-8462-4f75-85d1-b90cfaf0a478",
+        "loanDate": "2025-06-22T09:30:35",
+        "returnDate": "2025-06-30T00:00:00",
+        "idBook": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+        "idUser": "b6e2e2c2-7e2a-4e2e-9b2a-1c2e3f2e2e2e"
+    }
+    {
+        "id": "f1d28251-9087-4f75-85d1-b90cfaf0a478",
+        "loanDate": "2025-06-04T09:30:35",
+        "returnDate": "2025-06-18T00:00:00",
+        "idBook": "c301ac0d-c158-4f25-9c3a-47992f98cb9a",
+        "idUser": "c0s2e2c2-70ka-4e2e-9b2a-1c2e3f2e2e2e"
+    }
+]
