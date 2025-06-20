@@ -3,52 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\repositories\\inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\repositories\\inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\sources\\loans.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\sources\\loans.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\ejerciciochatlibroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\ejerciciochatlibroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\sources\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\sources\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\sources\\loans.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\sources\\loans.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\sources\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\sources\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\sources\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\sources\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776D10C5-5B1B-4F24-A1F7-DDA3E8C0DCD2}|Data\\Data.csproj|solutionrelative:data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38CC751C-381D-4AC4-A3E1-D321D9B10338}|Domain\\Domain.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -57,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE8875E2-9596-42AD-B4A2-50E59C2E3C7C}|Application\\Application.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE8875E2-9596-42AD-B4A2-50E59C2E3C7C}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D0A5304-BC89-4737-A9A3-67520B497585}|EjercicioChatLibros\\API.csproj|c:\\users\\54381\\documents\\angeles\\desarrollosw\\practicaprimerparcial\\ejerciciopracticaparcial\\ejerciciochatlibros\\ejerciciochatlibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D0A5304-BC89-4737-A9A3-67520B497585}|EjercicioChatLibros\\API.csproj|solutionrelative:ejerciciochatlibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,84 +58,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "categories.json",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\categories.json",
-              "RelativeDocumentMoniker": "Data\\Sources\\categories.json",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\categories.json",
-              "RelativeToolTip": "Data\\Sources\\categories.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T12:00:02.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "users.json",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\users.json",
-              "RelativeDocumentMoniker": "Data\\Sources\\users.json",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\users.json",
-              "RelativeToolTip": "Data\\Sources\\users.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T11:56:03.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "loans.json",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\loans.json",
-              "RelativeDocumentMoniker": "Data\\Sources\\loans.json",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\loans.json",
-              "RelativeToolTip": "Data\\Sources\\loans.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T11:46:27.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "books.json",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\books.json",
-              "RelativeDocumentMoniker": "Data\\Sources\\books.json",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\books.json",
-              "RelativeToolTip": "Data\\Sources\\books.json",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T11:34:44.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InMemory.cs",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Repositories\\InMemory.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\InMemory.cs",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Repositories\\InMemory.cs",
-              "RelativeToolTip": "Data\\Repositories\\InMemory.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:59:26.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:41:08.396Z",
+              "WhenOpened": "2025-06-20T12:35:22.275Z",
               "EditorCaption": ""
             },
             {
@@ -158,9 +81,61 @@
               "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
               "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\Book.cs",
               "RelativeToolTip": "Domain\\Entities\\Book.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:38:15.217Z",
+              "WhenOpened": "2025-06-20T12:11:10.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loans.json",
+              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\loans.json",
+              "RelativeDocumentMoniker": "Data\\Sources\\loans.json",
+              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\loans.json",
+              "RelativeToolTip": "Data\\Sources\\loans.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T11:52:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "books.json",
+              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\books.json",
+              "RelativeDocumentMoniker": "Data\\Sources\\books.json",
+              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Sources\\books.json",
+              "RelativeToolTip": "Data\\Sources\\books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T11:51:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemory.cs",
+              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Repositories\\InMemory.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\InMemory.cs",
+              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Repositories\\InMemory.cs",
+              "RelativeToolTip": "Data\\Repositories\\InMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:37:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Domain\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:36:33.076Z",
               "EditorCaption": ""
             },
             {
@@ -169,59 +144,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\EntityBase.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\EntityBase.cs",
-              "RelativeToolTip": "Domain\\Entities\\EntityBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:38:40.01Z",
+              "WhenOpened": "2025-06-19T10:41:08.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T01:50:02.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\EjercicioChatLibros\\Program.cs",
-              "RelativeDocumentMoniker": "EjercicioChatLibros\\Program.cs",
-              "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\EjercicioChatLibros\\Program.cs",
-              "RelativeToolTip": "EjercicioChatLibros\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T01:44:53.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "EjercicioChatLibrosContext.cs",
               "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\EjercicioChatLibrosContext.cs",
               "RelativeDocumentMoniker": "Data\\EjercicioChatLibrosContext.cs",
               "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Data\\EjercicioChatLibrosContext.cs",
               "RelativeToolTip": "Data\\EjercicioChatLibrosContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T01:44:29.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -229,38 +178,37 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-18T23:40:52.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T23:40:52.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\Loan.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Loan.cs",
               "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\Loan.cs",
               "RelativeToolTip": "Domain\\Entities\\Loan.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T23:42:52.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Domain\\Entities\\Category.cs",
               "RelativeToolTip": "Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T23:41:09.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\EjercicioPracticaParcial\\EjercicioChatLibros\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "Application\\Class1.cs",
@@ -268,8 +216,7 @@
               "RelativeToolTip": "Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T23:39:03.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T23:39:03.464Z"
             }
           ]
         }

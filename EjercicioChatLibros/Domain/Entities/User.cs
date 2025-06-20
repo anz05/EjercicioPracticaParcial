@@ -16,6 +16,5 @@ public class User : EntityBase
     {
         FullName = fullName;
         Email = email;
-        Id = Guid.NewGuid();
     }
 }

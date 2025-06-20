@@ -8,5 +8,10 @@ namespace Domain.Entities;
 
 public abstract class EntityBase
 {
-    public required Guid Id { get; set; }
+    public Guid? Id { get; set; }
+
+    protected EntityBase()
+    {
+        Id = Guid.NewGuid();
+    }
 }

@@ -10,6 +10,7 @@ public class Loan : EntityBase
 {
     public DateTime? LoanDate { get; set; }
     public DateTime? ReturnDate { get; set; }
+    public bool? IsActive { get; set; }
     
     public int? BookId { get; set; }
     public Book? Book { get; set; }
@@ -17,18 +18,10 @@ public class Loan : EntityBase
     public Guid? UserId { get; set; }
     public User? User { get; set; }
 
-    public Loan(DateTime loanDate, DateTime returnDate, int idBook, Guid idUser, User user)
+    public Loan(DateTime loanDate, DateTime returnDate)
     {
         LoanDate = loanDate;
         ReturnDate = returnDate;
-        Id = Guid.NewGuid();
-        BookId = idBook;
-        UserId = idUser;
-
-        if (user.Id == idUser) 
-        { 
-            user?.loans.Add(new Loan (){ });
-        }
+        IsActive = true;
     }
-
 }

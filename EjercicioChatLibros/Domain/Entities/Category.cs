@@ -13,6 +13,5 @@ public class Category : EntityBase
     public Category(string name)
     {
         Name = name;
-        Id = Guid.NewGuid();
     }
 }

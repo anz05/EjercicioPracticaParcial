@@ -16,7 +16,10 @@ public class EjercicioChatLibrosContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder); //lo q mapea la tabla
-        
+
+        modelBuilder.Entity<Book>()
+            .Property(e => e.Id)
+            .IsRequired();
         modelBuilder.Entity<Book>()
             .Property(e => e.Year)
             .HasMaxLength(4);
@@ -28,7 +31,8 @@ public class EjercicioChatLibrosContext : DbContext
             .HasMaxLength(60);
         modelBuilder.Entity<Book>()
             .Property(e=>e.ISBN)
-            .HasMaxLength(13);
+            .HasMaxLength(13)
+            .IsRequired();
     }
 
 }
