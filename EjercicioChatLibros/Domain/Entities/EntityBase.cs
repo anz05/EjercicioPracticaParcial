@@ -8,7 +8,7 @@ namespace Domain.Entities;
 
 public abstract class EntityBase
 {
-    public Guid? Id { get; set; }
+    public Guid Id { get; set; }
 
     protected EntityBase()
     {
